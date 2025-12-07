@@ -1,2 +1,0 @@
-functions 
-plt.plot( ) helps to create line graph |__ like x axis, y axis
